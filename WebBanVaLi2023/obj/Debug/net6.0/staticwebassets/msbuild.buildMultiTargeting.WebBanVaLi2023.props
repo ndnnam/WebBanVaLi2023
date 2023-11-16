@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebBanVaLi2023.props" />
+</Project>
