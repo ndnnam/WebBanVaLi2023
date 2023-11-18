@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using WebBanVaLi2023.Models;
+using WebBanVaLi2023.ViewModels;
 using X.PagedList;
 
 namespace WebBanVaLi2023.Controllers
@@ -43,6 +44,17 @@ namespace WebBanVaLi2023.Controllers
             return View(sanPham);
         }
 
+        public IActionResult ProductDetail(String maSp)
+        {
+            var sanPham = db.TDanhMucSps.SingleOrDefault(x => x.MaSp == maSp);
+            var anhSanPham = db.TAnhSps.Where(x => x.MaSp == maSp).ToList();
+            var homeProductDetailViewModel = new HomeProductDetailViewModel
+            {
+                danhMucSp = sanPham,
+                anhSps = anhSanPham
+            };
+            return View(homeProductDetailViewModel);
+        }
         public IActionResult Privacy()
         {
             return View();

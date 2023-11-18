@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Nam\\WebBanVaLi2023\\WebBanVaLi2023\\WebBanVaLi2023.csproj": {}
+    "D:\\Download\\Ban_Hang\\BanHangThoiTrang\\WebBanVaLi2023\\WebBanVaLi2023\\WebBanVaLi2023.csproj": {}
   },
   "projects": {
-    "D:\\Nam\\WebBanVaLi2023\\WebBanVaLi2023\\WebBanVaLi2023.csproj": {
+    "D:\\Download\\Ban_Hang\\BanHangThoiTrang\\WebBanVaLi2023\\WebBanVaLi2023\\WebBanVaLi2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nam\\WebBanVaLi2023\\WebBanVaLi2023\\WebBanVaLi2023.csproj",
+        "projectUniqueName": "D:\\Download\\Ban_Hang\\BanHangThoiTrang\\WebBanVaLi2023\\WebBanVaLi2023\\WebBanVaLi2023.csproj",
         "projectName": "WebBanVaLi2023",
-        "projectPath": "D:\\Nam\\WebBanVaLi2023\\WebBanVaLi2023\\WebBanVaLi2023.csproj",
-        "packagesPath": "C:\\Users\\nhutn\\.nuget\\packages\\",
-        "outputPath": "D:\\Nam\\WebBanVaLi2023\\WebBanVaLi2023\\obj\\",
+        "projectPath": "D:\\Download\\Ban_Hang\\BanHangThoiTrang\\WebBanVaLi2023\\WebBanVaLi2023\\WebBanVaLi2023.csproj",
+        "packagesPath": "C:\\Users\\1 9 9 8 N\\.nuget\\packages\\",
+        "outputPath": "D:\\Download\\Ban_Hang\\BanHangThoiTrang\\WebBanVaLi2023\\WebBanVaLi2023\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nhutn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\1 9 9 8 N\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -47,17 +47,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.14, )"
+              "version": "[7.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.14, )"
+              "version": "[7.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.14, )"
+              "version": "[7.0.3, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
