@@ -392,3 +392,4 @@ D:\Tai Lieu Hoc\4 - Senior\FirstSemester\AnToanHeThongThongTin\WebBanHang\BanHan
 D:\Tai Lieu Hoc\4 - Senior\FirstSemester\AnToanHeThongThongTin\WebBanHang\BanHangThoiTrang\BanHangThoiTrang\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\Tai Lieu Hoc\4 - Senior\FirstSemester\AnToanHeThongThongTin\WebBanHang\BanHangThoiTrang\BanHangThoiTrang\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\Tai Lieu Hoc\4 - Senior\FirstSemester\AnToanHeThongThongTin\WebBanHang\BanHangThoiTrang\BanHangThoiTrang\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Tai Lieu Hoc\4 - Senior\FirstSemester\AnToanHeThongThongTin\WebBanHang\BanHangThoiTrang\BanHangThoiTrang\obj\Debug\net8.0\BanHangThoiTrang.sourcelink.json
