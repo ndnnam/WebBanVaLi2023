@@ -10,14 +10,28 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebBanVaLi2023
 build_property.RootNamespace = WebBanVaLi2023
 build_property.ProjectDir = D:\Nam\WebBanVaLi2023\WebBanVaLi2023\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = D:\Nam\WebBanVaLi2023\WebBanVaLi2023
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Nam/WebBanVaLi2023/WebBanVaLi2023/Areas/Admin/Views/HomeAdmin/DanhMucSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhNdWNTYW5QaGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Nam/WebBanVaLi2023/WebBanVaLi2023/Areas/Admin/Views/HomeAdmin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam/WebBanVaLi2023/WebBanVaLi2023/Areas/Admin/Views/HomeAdmin/SuaSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YVNhblBoYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam/WebBanVaLi2023/WebBanVaLi2023/Areas/Admin/Views/HomeAdmin/ThemSanPhamMoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1TYW5QaGFtTW9pLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Nam/WebBanVaLi2023/WebBanVaLi2023/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
