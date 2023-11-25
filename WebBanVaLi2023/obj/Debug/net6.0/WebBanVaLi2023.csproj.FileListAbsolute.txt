@@ -270,3 +270,5 @@ D:\Nam\WebBanVaLi2023\WebBanVaLi2023\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.
 D:\Nam\WebBanVaLi2023\WebBanVaLi2023\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Nam\WebBanVaLi2023\WebBanVaLi2023\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Nam\WebBanVaLi2023\WebBanVaLi2023\obj\Debug\net6.0\WebBanVaLi2023.sourcelink.json
+D:\Nam\WebBanVaLi2023\WebBanVaLi2023\bin\Debug\net6.0\Microsoft.Practices.ServiceLocation.dll
+D:\Nam\WebBanVaLi2023\WebBanVaLi2023\bin\Debug\net6.0\XAct.Core.PCL.dll

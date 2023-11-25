@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using WebBanVaLi2023.Models;
+using WebBanVaLi2023.Models.Authentication;
 using WebBanVaLi2023.ViewModels;
 using X.PagedList;
 
@@ -16,7 +17,7 @@ namespace WebBanVaLi2023.Controllers
         {
             _logger = logger;
         }
-
+        //[Authentication]
         public IActionResult Index(int? page)
         {
             int pageSize = 8;
