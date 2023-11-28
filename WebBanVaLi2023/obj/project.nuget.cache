@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "miwf/IDdAIiMbP0g4+7HB7Ot5y5VRAQ4Ks+6fR/g8zPV7tEa050yzkKcxZFH+B46ykEJKSv6HusrKROuLuCqYg==",
+  "dgSpecHash": "BbIa8M9xeF6YcTmOJ4vQ6y+JOtv61N1pBJ1s3Ui1xwVyLyZd5xGeCLTt9ylTueZolewJW30+eCTFy3wMdAsFbg==",
   "success": true,
-  "projectFilePath": "D:\\Nam\\WebBanVaLi2023\\WebBanVaLi2023\\WebBanVaLi2023.csproj",
+  "projectFilePath": "E:\\Nam\\WebBanVaLi2023\\WebBanVaLi2023\\WebBanVaLi2023.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nhutn\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\nhutn\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

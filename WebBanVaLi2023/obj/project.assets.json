@@ -11253,24 +11253,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nhutn\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\nhutn\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Nam\\WebBanVaLi2023\\WebBanVaLi2023\\WebBanVaLi2023.csproj",
+      "projectUniqueName": "E:\\Nam\\WebBanVaLi2023\\WebBanVaLi2023\\WebBanVaLi2023.csproj",
       "projectName": "WebBanVaLi2023",
-      "projectPath": "D:\\Nam\\WebBanVaLi2023\\WebBanVaLi2023\\WebBanVaLi2023.csproj",
+      "projectPath": "E:\\Nam\\WebBanVaLi2023\\WebBanVaLi2023\\WebBanVaLi2023.csproj",
       "packagesPath": "C:\\Users\\nhutn\\.nuget\\packages\\",
-      "outputPath": "D:\\Nam\\WebBanVaLi2023\\WebBanVaLi2023\\obj\\",
+      "outputPath": "E:\\Nam\\WebBanVaLi2023\\WebBanVaLi2023\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\nhutn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11278,7 +11273,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

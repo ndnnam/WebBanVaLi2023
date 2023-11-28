@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebBanVaLi2023")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+927f3fa267cf5537b381ba5d8a09273f0255329d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5238e64750fadb45829018b12bc7b8fab6385e3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebBanVaLi2023")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebBanVaLi2023")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
